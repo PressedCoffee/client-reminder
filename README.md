@@ -178,4 +178,4 @@ Built by [PressedCoffee](https://github.com/PressedCoffee) as part of the Automa
 
 ---
 
-**Found this useful?** Star ⭐ the repo and [share what you're building](mailto:shaddockoc@gmail.com).
+**Found this useful?** Star ⭐ the repo and [share what you're building](mailto:Shaddock.Mercer@gmail.com).
